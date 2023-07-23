@@ -1,5 +1,6 @@
 # april-calib
-Detect pose of April tags by calibrating camera.
+**Python 3.8+** Uses f-strings and walrus-assignment.
+Detect pose of April tags by calibrating camera. 
 
 ## Usage
 
