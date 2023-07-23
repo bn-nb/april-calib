@@ -1,0 +1,47 @@
+APRILTAG and CALIBRATION
+    https://docs.wpilib.org/en/stable/docs/software/vision-processing/apriltag/apriltag-intro.html
+    https://docs.opencv.org/4.x/d9/d6d/tutorial_table_of_content_aruco.html
+    https://docs.opencv.org/4.x/de/d67/group__objdetect__aruco.html
+    https://docs.opencv.org/4.x/d2/d1a/classcv_1_1aruco_1_1ArucoDetector.html#a0c1d14251bf1cbb06277f49cfe1c9b61
+    https://github.com/abakisita/camera_calibration
+    https://docs.opencv.org/4.x/d9/d0c/group__calib3d.html#ga3207604e4b1a1758aa66acb6ed5aa65d
+
+
+ROTATION:
+    https://stackoverflow.com/questions/23009549/roll-pitch-yaw-calculation/23010193#23010193
+    https://stackoverflow.com/questions/64422772/rotate-image-by-pitch-roll-yaw-with-python-opencv
+    https://answers.opencv.org/question/161369/retrieve-yaw-pitch-roll-from-rvec/
+    https://mecaruco2.readthedocs.io/en/latest/notebooks_rst/Aruco/Projet+calibration-Paul.html
+    https://stackoverflow.com/questions/53277597/fundamental-understanding-of-tvecs-rvecs-in-opencv-aruco
+    https://msl.cs.uiuc.edu/planning/node102.html
+    https://stackoverflow.com/questions/75750177/solve-pnp-or-estimate-pose-single-markers-which-is-better
+    https://stackoverflow.com/questions/52119190/relative-rotation-between-pose-rvec/52188699#52188699
+
+
+POSE ESTIMATION
+    https://stackoverflow.com/questions/57577975/get-camera-position-and-rotation-using-aruco-markers
+    https://stackoverflow.com/questions/68019526/how-can-i-get-the-distance-from-my-camera-to-an-opencv-aruco-marker
+    https://stackoverflow.com/questions/53298065/opencv-confusion-about-solvepnp/53298851#53298851
+    https://docs.opencv.org/3.4/d5/d1f/calib3d_solvePnP.html
+    https://www.youtube.com/watch?v=Qp6suG0r_1M
+    http://www.graphics.stanford.edu/courses/cs248-98-fall/Final/q4.html
+    https://docs.opencv.org/4.x/d9/d0c/group__calib3d.html#ga69f2545a8b62a6b0fc2ee060dc30559d
+    https://www.delftstack.com/howto/python/opencv-solvepnp/
+    https://github.com/AprilRobotics/apriltag/issues/122
+
+
+ROS
+    https://www.youtube.com/watch?v=Gg25GfA456o
+    https://medium.com/analytics-vidhya/getting-started-with-ros-overview-installation-and-ros-computational-graph-model-e94d7a16187f
+    https://medium.com/swlh/7-simple-steps-to-create-and-build-our-first-ros-package-7e3080d36faa
+    https://medium.com/swlh/part-3-create-your-first-ros-publisher-and-subscriber-nodes-2e833dea7598
+
+
+MISC
+    https://ieeexplore.ieee.org/document/9213977
+    https://stackoverflow.com/questions/12179271/meaning-of-classmethod-and-staticmethod-for-beginner/12179752#12179752
+    https://stackoverflow.com/questions/9816816/get-absolute-paths-of-all-files-in-a-directory/9816863#9816863
+    https://stackoverflow.com/questions/49522026/how-to-use-numpy-save-in-append-mode/49522330#49522330
+    https://stackoverflow.com/questions/11274040/os-getcwd-vs-os-path-abspathos-path-dirname-file
+    https://answers.opencv.org/question/89786/understanding-the-camera-matrix/
+    https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_
